@@ -1,0 +1,17 @@
+/* 
+    Author: Me😎, Mansoon kaam chor
+    Theme: Food-order
+    version: 1.0
+*/
+*{
+    margin: 0 0;
+    padding: 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    border: 1px solid red;
+    width: 80%;
+    margin: 0 auto;
+    padding: 1%;
+    
+}
